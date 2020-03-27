@@ -2,16 +2,16 @@
 
 **Lavalink** on **Heroku**, in a nutshell
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/F4stZ4p/HLavalink)
-
-## If you want to run this:
+## Heroku Installation
 
 ### Easy Install
-- [x] Click the button "Deploy to Heroku" above to install
+- [x] Click the button "Deploy to Heroku" below to install
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/porter707/HLavalink)
 
 ### The hard way
 - [x] Create an application on Heroku
-- [x] Add Java to buildpacks
+- [x] Add Java and Python to buildpacks
 - [x] Fork this repo and deploy it to Heroku
 
 # Important notes:
