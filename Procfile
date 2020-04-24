@@ -1,1 +1,1 @@
-web: python3 bootstrap.py
+web: python3 lavalink.py

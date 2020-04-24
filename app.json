@@ -1,8 +1,7 @@
 {
-
-  "name": "HLavalink - Lavalink on Heroku",
+  "name": "Lavalink on Heroku",
   "description": "Set up your Lavalink server on Heroku easily",
-  "repository": "https://github.com/F4stZ4p/HLavalink",
+  "repository": "https://github.com/porter707/HLavalink",
   "logo": "https://i.imgur.com/jojMaQJ.png",
   "keywords": [
       "heroku", 
@@ -13,10 +12,6 @@
   "buildpacks": [
     {
       "url": "heroku/java"
-    },
-    {
-      "url": "heroku/python"
     }
   ]
-
 }
